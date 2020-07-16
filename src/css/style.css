@@ -3,6 +3,30 @@ html{
 }
 
 body{
+    font-family: sans-serif;
     text-align: center;
-    background-color: 
+    border-radius: 10px;
+    background-color: #ebebeb;
+    padding: 30px 10px 30px 10px;
+    margin: 30px 0px 0px 0px;
 }
+
+h1{
+
+}
+
+h3{
+
+}
+
+ul{
+
+}
+li{
+
+}
+
+blockquote{
+
+}
+
