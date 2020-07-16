@@ -6,27 +6,35 @@ body{
     font-family: sans-serif;
     text-align: center;
     border-radius: 10px;
-    background-color: #ebebeb;
+    background-color: #b0b0b0;
     padding: 30px 10px 30px 10px;
     margin: 30px 0px 0px 0px;
 }
 
 h1{
-
+    font-size: 40px;
 }
 
 h3{
-
+    line-height: 5em;
 }
 
 ul{
-
-}
-li{
-
+    max-width: 500px;
+    text-align: left;
 }
 
 blockquote{
+    max-width: 500px;
+    text-align: left;
+}
 
+div{
+    background-color: white;
+}
+
+img{
+    max-width: 100%;
+    margin-bottom: 10px;
 }
 
