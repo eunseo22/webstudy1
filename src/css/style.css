@@ -16,12 +16,13 @@ h1{
 }
 
 h3{
-    line-height: 5em;
+    margin: 20px, auto, 20px, auto;
 }
 
 div{
     background-color: white;
     padding-bottom: 5px;
+    margin-bottom: 50px;
 }
 
 img{
@@ -32,12 +33,16 @@ img{
 ul{
     text-align: left;
     max-width: 550px;
+    margin-top: 50px;
     margin-left: 450px;
+    
     
 }
 
 blockquote{
-    max-width: 550px;
     text-align: left;
-    
+    max-width: 550px;
+    margin-top: 50px;
+    margin-left: 460px;
+    margin-bottom: 50px;
 }
